@@ -1,0 +1,1 @@
+{"name": "spotify-clone","private": true,"workspaces": ["frontend","backend"],"scripts": {"install": "npm install --workspace frontend && npm install --workspace backend","start": "npm start --workspace frontend"},"devDependencies": {}}
